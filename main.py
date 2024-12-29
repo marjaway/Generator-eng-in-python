@@ -30,8 +30,6 @@ time.sleep(0.2)
 print("[ 13 ] - Random street generator   	[ 14 ] - Exit the software")
 time.sleep(0.2)
 
-#print("\nВнимание! \nВсе что сгенерировано в этой программе вымошленное!")
-
 command = input(Fore.CYAN + "\n[ ? ] -> Enter number: " + Fore.RESET)
 
 
