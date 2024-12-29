@@ -14,6 +14,7 @@ Functional:
 - Random street generator
 
 Installation:
+
 1.Download main.py file
 2.Run via cmd (cd file path)
 3.python main.py
